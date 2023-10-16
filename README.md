@@ -1,5 +1,5 @@
 # Turkish CyberSecurity Resources
-
+# Türkçe Sibergüvenlik Kaynakları
 NAME | URL 
 ---- | ---- 
 Mert SARICA | [**BLOG**](https://www.mertsarica.com/) - [**LINKEDIN**](https://www.linkedin.com/mertsarica)
